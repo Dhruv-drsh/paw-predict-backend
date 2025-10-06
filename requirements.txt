@@ -8,6 +8,3 @@ python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 opencv-python==4.8.1.78
 aiofiles==23.2.1
-
-
-
